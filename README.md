@@ -17,6 +17,8 @@
   </a>
 </div>
 
+почта: ignissopitus@yandex.ru или ignissopitus@gmail.com
+
 
 ## 🛠 Skills
 Продолжаю изучать:
