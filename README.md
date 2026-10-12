@@ -17,6 +17,8 @@
   </a>
 </div>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/MutatedEngineer?theme=forest&font=Noto%20Sans%20Modi)
+
 почта: ignissopitus@yandex.ru или ignissopitus@gmail.com
 
 
