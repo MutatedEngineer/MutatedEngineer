@@ -8,7 +8,11 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MutatedEngineer?theme=forest&font=Noto%20Sans%20Modi)
 
-![Stepik](https://img.shields.io/badge/Stepik-3776AB?style=for-the-badge&logo=stepik&logoColor=white) 
+<div id="badges">  
+  <a href="https://stepik.org/users/980470659">
+    <img src="https://img.shields.io/badge/Stepik-black?logo=stepik&logoColor=white" alt="Stepik Badge"/>
+  </a>
+</div>
 
 Продолжаю изучать:
 
@@ -26,7 +30,11 @@ ya.ru · ignissopitus@yandex.ru
 
 Gmail · ignissopitus@gmail.com
 
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+<div id="badges">  
+  <a href="https://t.me/mutated_engineer">
+    <img src="https://img.icons8.com/?size=100&id=jZ1z64hEYYLW&format=png&color=000000" alt="Telegram"/>
+  </a>
+</div>
 
 
 
